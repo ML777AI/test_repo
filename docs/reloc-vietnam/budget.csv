@@ -13,7 +13,7 @@ launch,drum_isolation_or_studio,lot,1,800,2500,6000,211250,booth or first-month 
 launch,bikes_deposit,bike,3,80,150,250,38025,long-term rent
 launch,insurance_first_month,person,4,60,90,180,30420,SafetyWing / Cigna
 launch,local_sim_esim,person,4,8,15,25,5070,Viettel/Vinaphone
-opex_month,villa_rent_4br_pool,month,1,2200,2800,4200,236600,Hoi An 2200 / Euro Village 2640-3420
+opex_month,villa_rent_4br_pool,month,1,2200,2400,3200,202896,Accessible band 2200-2700; luxury only if drum annex
 opex_month,electricity_ac_pool,month,1,180,320,480,27040,4 people AC + pool pump
 opex_month,water_gas,month,1,20,35,60,2958,
 opex_month,fiber_1g_backup,month,1,15,30,50,2535,FPT + Viettel backup
