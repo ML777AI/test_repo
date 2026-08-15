@@ -1,0 +1,35 @@
+category,item,unit,qty,usd_low,usd_base,usd_high,rub_base,notes
+launch,one_way_flight_svo_dad,person,4,450,580,850,196040,Vietnam Airlines / 1 stop; late Aug higher
+launch,prepaid_extra_bag_23kg,piece,8,150,230,280,155480,Russia zone ~230 USD/pc peak
+launch,air_cargo_studio_200kg,kg,200,1000,1600,2800,135200,5-8 USD/kg + handling; 5-12 days
+launch,sea_cargo_lcl_2m3,lot,1,400,700,1200,59150,35-50 days; not for 14-day wave
+launch,hotel_buffer_14n_2rooms,night,14,70,110,180,130130,until villa signed
+launch,villa_deposit,month,2,4400,5600,8000,473200,1-2 months typical
+launch,villa_prepay,month,3,6600,8400,15000,709800,pay 3 + deposit 1-2 common
+launch,setup_kit,lot,1,800,1500,2500,126750,nets,filters,foam,kitchen,tools
+launch,sports_kit,lot,1,250,450,800,38025,bars,bags,kettlebells,yoga
+launch,sauna_infrared_or_spa,lot,1,0,1200,2500,101400,villas rarely have sauna
+launch,drum_isolation_or_studio,lot,1,800,2500,6000,211250,booth or first-month offsite
+launch,bikes_deposit,bike,3,80,150,250,38025,long-term rent
+launch,insurance_first_month,person,4,60,90,180,30420,SafetyWing / Cigna
+launch,local_sim_esim,person,4,8,15,25,5070,Viettel/Vinaphone
+opex_month,villa_rent_4br_pool,month,1,2200,2400,3200,202896,Accessible band 2200-2700; luxury only if drum annex
+opex_month,electricity_ac_pool,month,1,180,320,480,27040,4 people AC + pool pump
+opex_month,water_gas,month,1,20,35,60,2958,
+opex_month,fiber_1g_backup,month,1,15,30,50,2535,FPT + Viettel backup
+opex_month,pool_garden_service,month,1,50,100,180,8450,often extra
+opex_month,house_cleaning,month,1,80,140,220,11830,2-3x/week
+opex_month,groceries_4,month,1,520,720,960,60840,local+import mix; no seafood OK
+opex_month,delivery_cafes_4,month,1,240,400,720,33800,GrabFood / coffee
+opex_month,transport_bikes_grab,month,1,120,200,320,16900,
+opex_month,household_consumables,month,1,60,100,160,8450,water bottles,soap,gas
+opex_month,medicine_prevention,month,1,80,140,240,11830,repellent,filters,pharmacy
+opex_month,visa_legal_reserve,month,1,80,160,280,13520,e-visa cycle / runs if chosen
+opex_month,internet_mobile_4,month,1,20,40,70,3380,
+opex_month,contingency_10pct,month,1,360,520,800,43940,
+personal,pocket_per_person,month,1,150,300,500,25350,not from opex fund
+fund,fm_6m_opex,lot,1,27000,34000,48000,2873000,untouchable
+fund,fm_tickets_home,person,4,600,800,1200,270400,
+fund,fm_medical,person,4,1500,2000,4000,676000,dengue/accident buffer
+income_min,active_income_per_person,month,1,1200,1800,2500,152100,must cover opex+personal+FM refill
+income_min,side_hustle_per_person,month,1,200,500,1500,42250,mentoring share or own
